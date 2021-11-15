@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eszagadyn or in human form Eduardo Szagadyn.
+- 👋 Hi, I’m @eszagadyn or Eduardo Szagadyn.
 - 👀 I’m interested in Python Development.
 - 🌱 I’m currently learning Data Science with Numpy, Pandas and scikit-learn.
 - 💞️ I’m looking to collaborate on Data Science and Django projects.
